@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MiTeléfono"
+
+rootProject.name = "Android-Simple-Llamadas"
 include(":app")
